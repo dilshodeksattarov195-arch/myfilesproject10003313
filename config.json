@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrarse",
+        "uuid": 16210509,
+        "checksum": "jmxu4r"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
